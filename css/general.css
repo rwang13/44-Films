@@ -1,0 +1,53 @@
+
+body{
+	background-color: #ffff00;
+}
+
+.bgcolor{
+	background-color: #ffffff;
+}
+
+.bgcolor2{
+	background-color: #FFB6C1;
+}
+
+.bgcolor3{
+	background-color: #edd293;
+}
+
+.bgcolor4{
+	background-color: #93bfed;
+}
+
+.bgcolor5{
+	background-color: #b0f593;
+}
+
+.bgcolor6{
+	background-color: #e32496;
+}
+
+.display-3{
+	color: #FF5733;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+}
+
+.header-logo{
+	width: 300px;
+}
+
+.footer-link{
+	color: #328a52;
+}
+
+.social-logo{
+	width: 40px;
+
+}
+
+.copyright{
+	font-size: 10px;
+}
